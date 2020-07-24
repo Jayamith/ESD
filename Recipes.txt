@@ -9,4 +9,8 @@ carrot
 fish
 
 
-Than you!
+burger
+pizza
+carrot
+
+Thank you!
